@@ -1,25 +1,30 @@
 # BankingNews
 
-BankingNews is a frontend learning project focused on content structure and layout.
+BankingNews is a frontend project built using React (Next.js) to practice component-based
+development and content display.
 
-## Project Overview
-The project was created to practice HTML, CSS, and basic JavaScript while building
-a simple news-style website.
+## Mission
+Build a news-style frontend application using React/Next.js, focusing on component
+structure and frontend logic.
+
+## What I Did
+- Created the application structure using React and Next.js
+- Built reusable functional components
+- Managed content layout and routes using Next.js features
+- Focused on clear information display and frontend logic
+- Styled pages using CSS modules or global CSS
 
 ## Technologies Used
-- HTML
-- CSS
+- React (Next.js)
 - JavaScript
-
-## Notes
-- This project is not fully responsive yet
-- Responsiveness is planned as a future improvement
+- HTML, CSS
 
 ## What I Practiced
-- Page structure and layout
-- Styling with CSS
-- Basic frontend logic
-- Clean and readable code
+- Component design and structure
+- Basic routing and layout in Next.js
+- Styling and content hierarchy
+- Frontend functionality with JavaScript
 
 ## Status
-Completed as a learning project.
+Completed as a learning project; responsiveness planned as an upgrade.
+
